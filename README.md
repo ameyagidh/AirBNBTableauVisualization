@@ -34,5 +34,10 @@ The project includes a range of visualizations:
 ### Dashboard:
 The interactive dashboard integrates the above visualizations, enabling users to dynamically explore rental market trends. Filters empower users to drill down into specific cities, room types, and price ranges.
 
+### Screenshots
+<img width="1496" alt="Screenshot 2024-03-06 at 5 17 41 PM" src="https://github.com/ameyagidh/AirBNBTableuVisualization/assets/65457905/a1435c1b-abe9-4cc0-ae1f-8ed94a23a8cc">
+<img width="1496" alt="Screenshot 2024-03-06 at 5 17 48 PM" src="https://github.com/ameyagidh/AirBNBTableuVisualization/assets/65457905/51592464-a925-44f2-ae34-52230b6e0c17">
+
+
 ## Conclusion:
 This project delivers comprehensive insights into the Airbnb rental market, empowering stakeholders to make informed decisions. By leveraging interactive visualizations and a user-friendly dashboard, users can gain actionable insights into rental trends and patterns across different cities.
